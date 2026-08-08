@@ -1,16 +1,15 @@
-## Hi there 👋
+# Inacio Grandini Ulbinski
 
-<!--
-**igranbinski-beep/igranbinski-beep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvimento de negócios e gestão comercial B2B, com interesse e competências em tecnologia e segurança da informação.
 
-Here are some ideas to get you started:
+## Competências
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Docker e Linux
+- Python, Java e C++
+- Git e GitHub
+- Vendas consultivas, parcerias B2B e relacionamento
+
+## Conecte-se
+
+- [LinkedIn](https://www.linkedin.com/in/inacio-grandini-ulbinski-a23852243/)
+- [Site pessoal](https://inaciograndini.carrd.co/)
