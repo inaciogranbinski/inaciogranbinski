@@ -11,5 +11,5 @@ Desenvolvimento de negócios e gestão comercial B2B, com interesse e competênc
 
 ## Conecte-se
 
-- [LinkedIn](https://www.linkedin.com/in/inacio-grandini-ulbinski-a23852243/)
+- [LinkedIn](https://www.linkedin.com/in/inaciogranbinski/)
 - [Site pessoal](https://inaciograndini.carrd.co/)
